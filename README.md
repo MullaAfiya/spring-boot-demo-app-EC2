@@ -62,3 +62,7 @@ java -jar JAR_FILE_NAME.jar
 nohup java -jar JAR_FILE_NAME.jar > /dev/null 2>&1 &
 ```
 Editted
+To check the commit id
+The command git log -1 gives information about the last commit. I am only interested in the number id. Can git give me this, or do I have to use basic parsing on the output (I know how to do that)?
+
+
