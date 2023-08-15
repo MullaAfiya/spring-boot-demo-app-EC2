@@ -61,3 +61,4 @@ java -jar JAR_FILE_NAME.jar
 ```bash
 nohup java -jar JAR_FILE_NAME.jar > /dev/null 2>&1 &
 ```
+Editted
